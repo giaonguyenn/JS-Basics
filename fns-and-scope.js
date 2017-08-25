@@ -67,7 +67,7 @@ function welcome () {
 
   //Code Here
   
-function myName(name) {
+function myName() {
 	return "Giao"; 
 }
 
